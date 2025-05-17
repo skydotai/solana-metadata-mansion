@@ -1,0 +1,8 @@
+{
+  "name": "Mansion",
+  "symbol": "MANSION",
+  "uri": "https://github.com/skydotai/solana-metadata-mansion/raw/master/metadata.json",
+  "decimals": 9,
+  "logoURI": "https://github.com/skydotai/solana-metadata-mansion/raw/master/logo.png",
+  "tags": ["utility", "meme"]
+}
